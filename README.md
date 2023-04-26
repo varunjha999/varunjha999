@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Varun Jha
 - 👀 I’m interested in Full stack web dev (MERN Dev)
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning NODE.JS
 - 💞️ I’m looking to collaborate on Technology
 - 📫 How to reach me jhavarun999@gmail.com
 
