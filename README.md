@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Varun Jha
-- 👀 I’m interested in Full Stack MERN Developer.
-- 🌱 I’m currently learning NODE.JS
+- 👀 I’m interested in Full Stack Developer.
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on MERN Development.
 - 📫 How to reach me jhavarun999@gmail.com
 
