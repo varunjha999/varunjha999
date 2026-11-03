@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Varun Jha
-- 👀 I’m interested in Full Stack Developer.
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on MERN Development.
+- 👀 I’m interested in Full Stack Developer & Business Data Analytics.
+- 🌱 I’m currently learning Data Engineering with AI
+- 💞️ I’m looking to collaborate on Full stack & Data Science.
 - 📫 How to reach me jhavarun999@gmail.com
 
 <!---
